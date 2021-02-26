@@ -1,0 +1,6 @@
+module Pods_MiguelFramework {
+  umbrella header "Pods-MiguelFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
